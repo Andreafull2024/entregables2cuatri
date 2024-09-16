@@ -1,0 +1,31 @@
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: linear-gradient(to left, #ffb4d7, #e626ac, #fdcd73 );
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+#card-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.card {
+    background: linear-gradient(to right, #f190ed, #fbffbf);
+    border: 1px solid #ff8d8d;
+    border-radius: 15px;
+    padding: 16px;
+    width: 200px;
+    box-shadow: 0 5px 7px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+ 
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     color: rgb(252, 81, 109);
+}
