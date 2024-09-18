@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
 body {
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background: linear-gradient(to left, #ffb4d7, #e626ac, #fdcd73 );
+    font-family: 'Montserrat', sans-serif;
+    background: linear-gradient(to left, #ffb4d7, #e626ac, #fdcd73);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -25,7 +27,7 @@ body {
 }
 
 h2 {
- 
-     font-family: Georgia, 'Times New Roman', Times, serif;
-     color: rgb(252, 81, 109);
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(252, 81, 109);
 }
